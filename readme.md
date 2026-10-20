@@ -2,6 +2,14 @@
 
 ## Bankavtalet
 
+### Förbund
+
+- [Finansförbundet](https://fackforbund.github.io/finansforbundet/)
+- [Akavia](https://fackforbund.github.io/akavia/)
+- [Sveriges Ingenjörer](https://fackforbund.github.io/sveriges-ingenjorer/)
+
+### Källor
+
 - https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
 - https://www.finansforbundet.se/globalassets/material---bestall-hem/produkter/allmanna-villkor-finansforbundet-2026-01-01-002.pdf
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/finansarbetsgivarna/
